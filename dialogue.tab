@@ -1,0 +1,129 @@
+Identifier	Character	Dialogue	Filename	Line Number
+as_estrelas_950094d1	preguica	É aquele ali!	game/cena01.rpy	13
+as_estrelas_d6f51825	preguica	Aquele ali, Preguinho, é o Cinturão de Orion!	game/cena01.rpy	15
+as_estrelas_2fa6fb01	preguinho	Aahh... Não consigo ver nada, Dona Preguiça...	game/cena01.rpy	16
+as_estrelas_c2f1d27c	preguica	Ali Preguinho. Tens que te consentrar um pouco.	game/cena01.rpy	25
+as_estrelas_7885793a	preguinho	Ah... Eu tô tentando mas eu não consigo, Dona Preguiça...	game/cena01.rpy	28
+as_estrelas_9acae01d	preguinho	Do céu, eu só consigo ver... hmm... as Três Marias!	game/cena01.rpy	32
+as_estrelas_da815c0b	preguica	Pronto! É isso! As Três Marias fazem parte do Cinturão de Orion.	game/cena01.rpy	35
+as_estrelas_fb34a75e	preguica	Elas ficam bem no meio. O Cinturão é um quadrado.	game/cena01.rpy	36
+as_estrelas_7c679c09	preguinho	Ah... Mas por que chamam d-de Cinturão de Orion? Não é, Dona Preguiça?	game/cena01.rpy	39
+as_estrelas_cb9b3bcd	preguica	Isso é uma antiga lenda, Preguinho. Todos os povos antigos tinham sua maneira de olhar o céu.	game/cena01.rpy	42
+as_estrelas_9ca12c09	preguica	Orion, por exemplo, é um caçador. Ele está no céu junto com duas outras constelações, a do Cão Maior, e a do Cão Menor.	game/cena01.rpy	46
+as_estrelas_f6acdd50	preguinho	Puxa, tem até cachorro no céu!?	game/cena01.rpy	49
+as_estrelas_d1620f9f	preguica	Não, Preguinho! As várias posições das estrelas é que formam figuras, inclusive de animais. Desde o início do mundo, o céu serviu de mapa, calendário e até relógio.	game/cena01.rpy	52
+as_estrelas_7359fbdd	preguinho	Hã? Relógio?	game/cena01.rpy	57
+as_estrelas_ea1f7717	preguinho	Olhando pra quarta Maria, Dona Preguiça, que horas tem?	game/cena01.rpy	59
+as_estrelas_047044ae	preguica	Quarta Maria??	game/cena01.rpy	62
+as_estrelas_595723ab	preguinho	É! A senhora tá vendo, ó...	game/cena01.rpy	64
+as_estrelas_d96a88db	preguinho	Uma...{w=1.0} duas...{w=1.0} três...{w=1.0} e aquela ali do lado é a quarta Maria!	game/cena01.rpy	71
+as_estrelas_0bea0024	preguica	Não, Preguinho! Só são três Marias mesmo. Aquela quarta estrela é outra coisa.	game/cena01.rpy	78
+as_estrelas_cc6e3ecf	preguica	Para os índios, por exemplo, ela é Panhaom.	game/cena01.rpy	80
+as_estrelas_cbc06b6a	preguinho	Panhaom?	game/cena01.rpy	83
+as_estrelas_f632e557	preguica	É. Significa bacurau em Tupari.	game/cena01.rpy	86
+as_estrelas_d2c3841b	preguinho	Bacurau??	game/cena01.rpy	89
+as_estrelas_948d424a	preguica	É. Bacurau é um pássaro, Preguinho.	game/cena01.rpy	92
+as_estrelas_7577e188	preguinho	Ahh, eu sei! Aquele que só sai à noite, igualzinho a Matinta Perera.	game/cena01.rpy	95
+as_estrelas_5881fe33	preguica	É. Aquela estrela ganhou esse nome por causa de Tianoá.	game/cena01.rpy	98
+as_estrelas_ccae987f	preguinho	Ah, e quem foi Tianoá?	game/cena01.rpy	101
+as_estrelas_5d1a0171	preguica	É uma antiga lenda Tupari. Tianoá ficou conhecida como A Cabeça Voadora.	game/cena01.rpy	104
+as_estrelas_38671cf1	preguinho	Égua!! Uma cabeça que voa!!	game/cena01.rpy	107
+as_estrelas_9953a14f	preguica	É. Deixa eu pegar o meu livro pra te contar essa lenda.	game/cena01.rpy	110
+as_estrelas_4fb9a99b	preguinho	Uuh... Uma cabeça que voa. Essa eu não tinha ouvido ainda!	game/cena01.rpy	115
+a_cabeca_voadora_2c53f6be	narrator	Tianoá era a moça mais bonita da aldeia.	game/cena02.rpy	7
+a_cabeca_voadora_4f05eb24	narrator	Era casada com Guatapapi, filho do Pajé e um dos primeiros seres a existir no mundo.	game/cena02.rpy	8
+a_cabeca_voadora_3f17f293	paje	Hmmm... Pajé casou filho com moça boa! Bonita!	game/cena02.rpy	11
+a_cabeca_voadora_3f37a32e	paje	Filho de Pajé vai ter descendentes fortes e bonitos!	game/cena02.rpy	12
+a_cabeca_voadora_5f2227b7	paje	Raça de Pajé ficar para sempre na Terra.	game/cena02.rpy	13
+a_cabeca_voadora_a3fe0bd8	narrator	Mas tinha algo que o Pajé não sabia, aliás, ninguém sabia.	game/cena02.rpy	17
+a_cabeca_voadora_e99c5df2	narrator	Todas as noites, a cabeça de Tianoá desprendia do pescoço e voava pelas roças alheias e comia tudo que via pela frente.	game/cena02.rpy	18
+a_cabeca_voadora_9a825a6c	preguinho	Só a cabeça? E pra onde ia a comida??	game/cena02.rpy	28
+a_cabeca_voadora_0f41971e	preguica	Isso... ninguém sabia.	game/cena02.rpy	29
+a_cabeca_voadora_99cba939	narrator	Antes do amanhecer, a cabeça voltava e colava-se novamente ao corpo de Tianoá.	game/cena02.rpy	31
+a_cabeca_voadora_d5b8b053	guatapapi	Guatapapi vai caçar comida boa hoje, pra Tianoá comer!	game/cena02.rpy	39
+a_cabeca_voadora_ec29449a	tianoa	Tianoá é feliz com Guatapapi, isso já basta pra barriga tá cheia.	game/cena02.rpy	42
+a_cabeca_voadora_9cce0c49	guatapapi	Estranho, Guatapapi todo dia acorda com esse sangue no peito.	game/cena02.rpy	47
+a_cabeca_voadora_661b5696	tianoa	Mosquito. De noite Tianoá mata um monte em cima de Guatapapi.	game/cena02.rpy	52
+a_cabeca_voadora_bc55790f	guatapapi	Aah, meu amor!	game/cena02.rpy	55
+a_cabeca_voadora_d6301b29	indio1	Hmm... Vamo saí daqui!	game/cena02.rpy	62
+a_cabeca_voadora_b7b362c2	indio2	Quieto! Hoje eu descubro por que Guatapapi acorda com aquele sangue no peito!	game/cena02.rpy	64
+a_cabeca_voadora_f8dba256	indio1	Tu achas que Tianoá teria coragem pá cortá o peito do filho do Pajé?	game/cena02.rpy	66
+a_cabeca_voadora_45e4a0a2	indio2	Num sei! Mas algum motivo deve ter para ele sangrar de manhã!	game/cena02.rpy	67
+a_cabeca_voadora_28391c95	indio1	Aí é que tu te enganas! Não é sangue dele não!	game/cena02.rpy	69
+a_cabeca_voadora_8ca31511	indio2	Como é que tu sabes?	game/cena02.rpy	70
+a_cabeca_voadora_db6959e1	indio1	Já perguntei pra ele! Não tem nenhum machucado, não!	game/cena02.rpy	72
+a_cabeca_voadora_d61a0acc	indio2	Então deve ser o que eu pensei!	game/cena02.rpy	73
+a_cabeca_voadora_cafcd4be	indio1	O que?	game/cena02.rpy	75
+a_cabeca_voadora_0587762e	indio2	F E I T I Ç O!!	game/cena02.rpy	76
+a_cabeca_voadora_99e0c734	indio1	Tá doido? Vamo logo é sair daqui que é!	game/cena02.rpy	78
+a_cabeca_voadora_cee51370	indio1	Se o Pajé vê a gente espiando o filho dele vai botar a gente de castigo!	game/cena02.rpy	79
+a_cabeca_voadora_a834151c	indio2	Cala a boca medroso! Tu sabes o que eu descobri?	game/cena02.rpy	81
+a_cabeca_voadora_b510cb3f	indio1	Não, e acho que não quero sabê!	game/cena02.rpy	82
+a_cabeca_voadora_a1c69dbf	indio2	Tianoá põe sangue dela na bebida sagrada!	game/cena02.rpy	84
+a_cabeca_voadora_bb76587b	indio1	O que? Na bebida sagrada?	game/cena02.rpy	85
+a_cabeca_voadora_93d8f82b	indio2	Por isso que ela não gosta que ninguém veja quando ela faz a bebida!	game/cena02.rpy	87
+a_cabeca_voadora_4dc40c4f	indio1	Sangue dela? Arrghh!	game/cena02.rpy	88
+a_cabeca_voadora_4bd3410c	indio2	Ela corta o dedo e deixa o sangue cair na bebida!	game/cena02.rpy	90
+a_cabeca_voadora_e03f10cf	indio1	Arrghh!	game/cena02.rpy	91
+a_cabeca_voadora_8ae20de3	indio1	Olha lá! Tá acontecendo alguma coisa na rede!	game/cena02.rpy	93
+a_cabeca_voadora_1ff28386	indio2	É agora que a gente vai saber o segredo de Tianoá!	game/cena02.rpy	96
+a_cabeca_voadora_6f07e824	indio1	O que é aquilo??	game/cena02.rpy	98
+a_cabeca_voadora_5c3e6fe9	indio2	Não acredito!!	game/cena02.rpy	99
+a_cabeca_voadora_520bea51	indio1	Vamos sair correndo daqui!	game/cena02.rpy	104
+a_cabeca_voadora_16c1a81e	indio2	Ela tá vindo pra cá!	game/cena02.rpy	105
+a_fogueira_41095b3e	preguinho	E a cabeça pegou os dois índios?	game/cena03.rpy	11
+a_fogueira_95afac9f	preguica	Não Preguinho. Eles eram espertos e velozes!	game/cena03.rpy	12
+a_fogueira_30f0bbbb	preguinho	Ah, e o que aconteceu depois?	game/cena03.rpy	14
+a_fogueira_720a27e8	preguica	Eles foram correndo contar para o Pajé.	game/cena03.rpy	15
+a_fogueira_66727886	preguinho	Ihh... O Pajé não acreditou neles e eles ficaram de castigo, não é?	game/cena03.rpy	17
+a_fogueira_7de442c2	preguica	Não senhor! Acreditou sim. E ficou furioso!	game/cena03.rpy	19
+a_fogueira_24233d57	preguica	Todos ficaram furiosos.	game/cena03.rpy	20
+a_fogueira_3a4f2acc	preguinho	Ahh, pegaram a cabeça dela e jogaram tão alto que ela virou uma estrela, não foi?	game/cena03.rpy	23
+a_fogueira_ba72b629	preguica	Calma Preguinho, a história só está começando.	game/cena03.rpy	25
+a_fogueira_016aba8d	preguinho	Ah... É que tá me dando um pouquinho de medo, Dona Preguiça...	game/cena03.rpy	28
+a_fogueira_c5aabb18	preguica	Não precisa ter medo, Preguinho. Escuta o resto da história.	game/cena03.rpy	30
+a_fogueira_d0c3c4a5	preguica	Então, o Pajé teve uma ideia. Chamou todos da tribo e combinaram que naquela noite iam fazer uma festa.	game/cena03.rpy	33
+a_fogueira_759fb0bf	preguica	Todos foram pegar lenha e fizeram uma fogueira bem grande.	game/cena03.rpy	34
+a_fogueira_a816b217	narrator	O Pajé combinou que a festa só iria acontecer de manhã. Por isso, a fogueira ficou lá, prontinha pra ser queimada.	game/cena03.rpy	42
+a_fogueira_7e96aae8	narrator	Todos ficaram esperando.	game/cena03.rpy	43
+a_fogueira_fc04471d	narrator	Então pegaram o corpo de Tianoá e colocaram na fogueira.	game/cena03.rpy	50
+a_fogueira_66a0aae4	guatapapi	Tianoá! Tianoá! O que vocês estão fazendo com a minha amada?	game/cena03.rpy	53
+a_fogueira_2760be13	paje	Ela traiu nossa tribo, filho!	game/cena03.rpy	56
+a_fogueira_b554bce6	paje	Está roubando a comida dos outros índios!	game/cena03.rpy	57
+a_fogueira_2f8c4ba8	guatapapi	Mas Tianoá e eu nos amamos!	game/cena03.rpy	60
+a_fogueira_f931e2fd	indio1	A gente tá sabendo que ela perde a cabeça é por ti.	game/cena03.rpy	63
+a_fogueira_3b93ec27	indio2	Vamos queimar esse corpo que já não te pertence.	game/cena03.rpy	65
+a_fogueira_484e4cf4	tianoa	Aaaaahhhh!!!	game/cena03.rpy	89
+a_fogueira_55c463a8	guatapapi	Meu amor!! Meu amor!! Meu amooor!!	game/cena03.rpy	92
+a_fogueira_61f9f44b	guatapapi	Já faz dois dias que Tianoá se foi...	game/cena03.rpy	110
+a_fogueira_54aa8198	guatapapi	Guatapapi não consegue dormir direito...	game/cena03.rpy	111
+a_fogueira_2b981bf5	guatapapi	Pássaro agorento! Guatapapi vai te matar!	game/cena03.rpy	117
+a_fogueira_b52efc84	bacurau	Não! Sou sua mulher, ainda apaixonada por ti, meu amor!	game/cena03.rpy	120
+a_fogueira_72a9414b	guatapapi	Minha mulher não era assim!	game/cena03.rpy	122
+a_fogueira_dc472211	bacurau	Fiquei assim depois que me queimaram, meu amor.	game/cena03.rpy	123
+a_fogueira_5880d2c5	bacurau	Vim te buscar!	game/cena03.rpy	124
+a_fogueira_c2dcacb3	guatapapi	Eu hein!	game/cena03.rpy	126
+a_fogueira_67e14f87	bacurau	Meu pai e meu irmão estão lá fora, vieram te convidar pra morar na aldeia lá no céu, lá é lindo.	game/cena03.rpy	127
+a_fogueira_2b25c067	guatapapi	Não sou de confiar em pássaro agorento, não.	game/cena03.rpy	129
+a_fogueira_dedc4d22	guatapapi	Como é que Guatapapi vai saber que tu não é um bacurau querendo me matar?	game/cena03.rpy	130
+a_fogueira_6186b692	tianoa	Está satisfeito agora?	game/cena03.rpy	145
+a_fogueira_84d469f7	guatapapi	Tianoá? Meu amor!	game/cena03.rpy	148
+a_fogueira_4246daff	tianoa	Meu pai fez um cipó pra gente subir lá pro céu.	game/cena03.rpy	151
+a_fogueira_b8705b02	tianoa	Vamos, meu amor! Vamos!	game/cena03.rpy	156
+a_fogueira_357815c7	narrator	Os parentes de Tianoá a transformaram em uma estrela.	game/cena03.rpy	158
+a_fogueira_d340aee0	narrator	Quando alguém mata uma pessoa na Terra, acende uma luz no céu.	game/cena03.rpy	159
+a_fogueira_5ffb7cab	narrator	E Tianoá, em forma de bacurau, desce pra comer a carne de quem foi assassinado.	game/cena03.rpy	160
+final_544f0b1d	preguinho	Ah, então quer dizer que... quando aquela estrela brilha, alguém morreu assassinado?	game/cena04.rpy	14
+final_0f1e040e	preguica	É! É isso que diz a lenda.	game/cena04.rpy	15
+final_d7b80e2b	preguinho	Ah, mas e aí o bacurau vem chupar o sangue do morto?	game/cena04.rpy	17
+final_669810d8	preguica	Sim, Preguinho	game/cena04.rpy	18
+final_acf56bc3	preguinho	Aahh... Eu não quero lhe assustar não, Dona Preguiça, mas aquela estrela tá brilhando mais forte agoraaa!	game/cena04.rpy	20
+final_12b46233	preguica	Preguinho!!	game/cena04.rpy	23
+final_0c0bec49	preguinho	Tá... Mas agora eu sei porque os antigos usavam o céu como relógio.	game/cena04.rpy	25
+final_e1552b4c	preguica	Sabe? Por quê?	game/cena04.rpy	27
+final_99cae03a	preguinho	Porque eu to sentindo que é hora de ir emboraaaa!	game/cena04.rpy	29
+final_7dfed595	preguica	Preguinho! Calma!	game/cena04.rpy	31
+final_20b1360e	preguica	Rá rá rá... Esse Preguinho.	game/cena04.rpy	36
+final_892bbeab	preguinho	Mas eu volto Dona Preguiça!	game/cena04.rpy	38
+final_c78d8ce3	preguica	Tchau Preguinho!	game/cena04.rpy	41
+splashscreen_8d6f64af	centered		game/script.rpy	572
