@@ -28,7 +28,7 @@ screen gallery:
     add im.Scale('gui/opened-book.png', 1280, 720)
     use navigation
 
-    text "{size=30}Galeria{/size}":
+    text _("{size=30}Galeria{/size}"):
         xalign 0.3
         yalign 0.12
 

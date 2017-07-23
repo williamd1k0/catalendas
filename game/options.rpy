@@ -37,7 +37,7 @@ init -1 python hide:
     ## running in a window.
     ## - Título de la ventana, cuando Ren'Py se ejecuta en modo ventana.
 
-    config.window_title = u"Catalendas - A Lenda da Cabeça Voadora"
+    config.window_title = _(u"Catalendas - A Lenda da Cabeça Voadora")
 
     ## These control the name and version of the game, that are reported
     ## with tracebacks and other debugging logs.

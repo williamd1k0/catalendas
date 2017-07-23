@@ -3,56 +3,56 @@ init:
 
 
     python:
-        credits_title = "{b}{size=+10}Catalendas", u"A Lenda da Cabeça Voadora{/size}{/b}"
+        credits_title = "{b}{size=+10}Catalendas", _(u"A Lenda da Cabeça Voadora{/size}{/b}")
         staff = {
             'programmer': 'William Tumeo',
             'art': 'Yomiell Z80',
             'sfx': u'Vinícius Kleinsorgen'
         }
         credits_list = [
-            ('Elenco', [
-                u'Dona Preguiça',
-                'Preguinho',
-                u'Pajé',
+            (_('Elenco'), [
+                _(u'Dona Preguiça'),
+                _('Preguinho'),
+                _(u'Pajé'),
                 'Guatapapi',
                 u'Tianoá',
-                u'Índio fofoqueiro',
-                u'Índio fuxiqueiro'
+                _(u'Índio fofoqueiro'),
+                _(u'Índio fuxiqueiro')
             ]),
-            (u'Direção de Arte', [
+            (_(u'Direção de Arte'), [
                 staff['art']
             ]),
-            ('Design de Personagens', [
+            (_('Design de Personagens'), [
                 staff['art']
             ]),
-            (u'Animações', [
+            (_(u'Animações'), [
                 staff['art'],
                 staff['programmer']
             ]),
-            (u'Cenários', [
+            (_(u'Cenários'), [
                 staff['art']
             ]),
             ('GUI', [
                 staff['programmer'],
                 staff['art']
             ]),
-            ('Programador Principal', [
+            (_('Programador Principal'), [
                 staff['programmer']
             ]),
-            (u'Adaptação', [
+            (_(u'Adaptação'), [
                 staff['programmer'],
                 staff['art']
             ]),
-            (u'Direção de Fotografia', [
+            (_(u'Direção de Fotografia'), [
                 staff['programmer']
             ]),
-            ('Efeitos Sonoros', [
+            (_('Efeitos Sonoros'), [
                 staff['sfx']
             ]),
-            ('Revisão', [
+            (_('Revisão'), [
                 staff['sfx']
             ]),
-            ('Agradecimentos Especiais', (
+            (_('Agradecimentos Especiais'), (
                 'Pedro "Cogu" Casanova',
                 'Emanuel Victor'
             ))
