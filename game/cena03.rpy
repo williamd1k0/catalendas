@@ -83,7 +83,7 @@ label db:
     call queima(0.7, 0.2)
     call queima(0.2, 0.3)
     call queima(0.6, 0.6)
-    hide text
+    hide queima_txt
 
     play sound 'sfx/you-died.ogg'
     tianoa "Aaaaahhhh!!!"
@@ -98,7 +98,7 @@ label db:
     call queima(0.7, 0.2)
     call queima(0.1, 0.5)
     call queima(0.2, 0.3)
-    hide text
+    hide queima_txt
     stop sound fadeout 2.0
     stop music fadeout 2.0
     $ renpy.pause(2, hard=True)
@@ -170,8 +170,10 @@ label db:
 
     return
 
+
+image queima_txt = Text(_("QUEIMA!"))
 label queima(x, y):
-    show text "QUEIMA!":
+    show queima_txt:
         xalign x
         yalign y
     with dissolve

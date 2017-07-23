@@ -454,7 +454,7 @@ screen credits:
     add im.Scale('gui/opened-book.png', 1280, 720)
     use navigation
 
-    text "{size=30}Créditos{/size}":
+    text _("{size=30}Créditos{/size}"):
         xalign 0.3
         yalign 0.12
 
@@ -464,9 +464,9 @@ screen credits:
         xalign 0.54
         ypos 0.25
         has vbox
-        text "{size=+10}Programa: William Tumeo\n      {a=https://github.com/williamd1k0}GitHub{/a}\n      {a=https://twitter.com/williamd1k0}@williamd1k0{/a}{/size}"
-        text "\n{size=+10}Arte: Ana \"Yomiell\"\n      {a=https://www.facebook.com/ArtistYomiell}Facebook{/a}\n      {a=https://twitter.com/Yomiell}@Yomiell{/a}{/size}"
-        text "\n{size=+10}Áudio: Vinícius Kleinsorgen\n      {a=https://soundcloud.com/viniciuskps}SoundCloud{/a}\n      {a=https://twitter.com/viniciuskps}@viniciuskps{/a}{/size}"
+        text _("{size=+10}Programação: William Tumeo\n      {a=https://github.com/williamd1k0}GitHub{/a}\n      {a=https://twitter.com/williamd1k0}@williamd1k0{/a}{/size}")
+        text _("\n{size=+10}Arte: Yomiell Z80\n      {a=https://www.facebook.com/ArtistYomiell}Facebook{/a}\n      {a=https://twitter.com/Yomiell}@Yomiell_z80{/a}{/size}")
+        text _("\n{size=+10}Áudio: Vinícius Kleinsorgen\n      {a=https://soundcloud.com/viniciuskps}SoundCloud{/a}\n      {a=https://twitter.com/viniciuskps}@viniciuskps{/a}{/size}")
 
 
 # Backup

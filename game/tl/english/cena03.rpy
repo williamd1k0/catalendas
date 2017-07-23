@@ -252,3 +252,7 @@ translate english db_5ffb7cab:
     # narrator "E Tianoá, em forma de bacurau, desce pra comer a carne de quem foi assassinado."
     narrator "Then Tianoá, as a bacurau, comes down to Earth to eat the flesh of the dead victim."
 
+translate english strings:
+
+    old "QUEIMA!"
+    new "BURN!"
