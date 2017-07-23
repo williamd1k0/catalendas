@@ -19,7 +19,7 @@ init -15 python:
 define narrator = Character(None, window_style="centered_window", what_style="centered_text", what_prefix='"', what_suffix='"')
 
 # Dona Preguiça
-define preguica = Character("Dona Preguiça", color="#802d4b")
+define preguica = Character(_("Dona Preguiça"), color="#802d4b")
 image preguica normal = im.Composite(char_sizes['preguica'],
     (0, 0), im.Scale('preguica/normal.png', *char_sizes['preguica'])
 )
@@ -43,7 +43,7 @@ image preguica tchau = im.Composite(char_sizes['preguica'],
 )
 
 # Preguinho
-define preguinho = Character("Preguinho", color="#2487c4")
+define preguinho = Character(_("Preguinho"), color="#2487c4")
 image preguinho normal = im.Composite(char_sizes['preguinho'],
     (0, 0), im.Scale('preguinho/normal.png', *char_sizes['preguinho'])
 )
@@ -65,7 +65,7 @@ image preguinho medox = im.Composite(char_sizes['preguinho'],
 image preguinho aponta = im.FactorScale('preguinho/aponta.png', 0.5)
 
 # Pajé
-define paje = Character("Pajé", color="#a72727")
+define paje = Character(_("Pajé"), color="#a72727")
 image paje normalx = im.Flip(im.Composite(char_sizes['paje'],
     (0, 0), im.Scale('paje/normal.png', *char_sizes['paje'])
 ), horizontal=True)
@@ -132,7 +132,7 @@ image tianoa ghost2 = im.Composite(char_sizes['tianoa'],
 )
 
 # Índios
-define indio1 = Character("Índio fofoqueiro" , color="#2d357d")
+define indio1 = Character(_("Índio fofoqueiro") , color="#2d357d")
 image indio1 normal = im.Composite(char_sizes['indio1'],
     (0, 0), im.Scale('misc/indio.png', *char_sizes['indio1'])
 )
@@ -143,7 +143,7 @@ image indio1 cruzado = im.Composite(char_sizes['indio1'],
     (0, 0), im.Scale('misc/indio-x.png', *char_sizes['indio1'])
 )
 
-define indio2 = Character("Índio fuxiqueiro", color="#5b7e2a")
+define indio2 = Character(_("Índio fuxiqueiro"), color="#5b7e2a")
 image indio2 normal = im.Flip(im.Composite(char_sizes['indio2'],
     (0, 0), im.MatrixColor(
         im.Scale('misc/indio.png', *char_sizes['indio2']),
@@ -196,7 +196,9 @@ define music_casa = 'music/catalendas-casadocatalendas.ogg'
 define sfx_catavento = 'sfx/catalendas-catavento.ogg'
 
 # Images
-image disclaimer_txt = Text("{size=+12}{b}Aviso legal{/b}{/size}{vspace=20}{size=+10}Os personagens deste projeto não nos pertencem e nem suas imagens. {vspace=20}Este projeto não possui nenhuma relação com a {a=http://www.portalcultura.com.br/node/26}{b}TV Cultura{/b}{/a} e a {a=https://inbust.wordpress.com/}{b}Companhia In Bust{/b}{/a}, criadoras do programa de TV {i}Catalendas{/i}.{vspace=20}Projeto feito de fã para fã sem o objetivo de violar os direitos dos personagens e não possui fins lucrativos.{/size}", xmaximum=1000, align=(0.5,0.4))
+image disclaimer_txt = Text(_("{size=+12}{b}Aviso legal{/b}{/size}{vspace=20}{size=+10}Os personagens deste projeto não nos pertencem e nem suas imagens. {vspace=20}Este projeto não possui nenhuma relação com a {a=http://www.portalcultura.com.br/node/26}{b}TV Cultura{/b}{/a} e a {a=https://inbust.wordpress.com/}{b}Companhia In Bust{/b}{/a}, criadoras do programa de TV {i}Catalendas{/i}.{vspace=20}Projeto feito de fã para fã sem o objetivo de violar os direitos dos personagens e não possui fins lucrativos.{/size}"), xmaximum=1000, align=(0.5,0.4))
+image press_start_txt = Text(_("{color=#fff}PRESSIONE START{/color}"))
+image main_title_txt = Text(_("A LENDA DA CABEÇA VOADORA"))
 image tupa_lua = im.Scale("tupa-lua.png", 250, 250)
 image catavento_img = im.Scale("catavento.png", 1000, 1000)
 image catavento_title = im.Scale("catavento.png", 500, 500)
@@ -585,7 +587,8 @@ label splashscreen:
         $ renpy.pause(10, hard=True)
         $ persistent.not_firstrun = True
 
-    show text "{color=#fff}PRESSIONE START{/color}" at right, press_start
+    #show text "{color=#fff}PRESSIONE START{/color}" at right, press_start
+    show press_start_txt at right, press_start
 
     # Aguarda interação
     centered ""
@@ -629,7 +632,7 @@ label start:
     show titulo:
         xalign 0.5
         yalign 0.3
-    show text "A LENDA DA CABEÇA VOADORA":
+    show main_title_txt:
         xalign 0.5
         yalign 0.7
     with dissolve

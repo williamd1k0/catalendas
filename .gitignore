@@ -7,3 +7,5 @@ tmp/
 traceback.txt
 log.txt
 errors.txt
+
+.vscode/

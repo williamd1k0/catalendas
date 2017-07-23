@@ -530,6 +530,14 @@ screen preferences:
             textbutton _("Window") action Preference("display", "window")
             textbutton _("Fullscreen") action Preference("display", "fullscreen")
 
+        frame:
+            style_group "pref"
+            has vbox
+
+            label _("Idioma")
+            textbutton _("Português") action Function(renpy.change_language, None)
+            textbutton _("Inglês") action Function(renpy.change_language, "english")
+
             # frame:
             #     style_group "pref"
             #     has vbox
@@ -617,12 +625,14 @@ screen preferences:
                     textbutton _("Test"):
                         action Play("voice", config.sample_voice)
                         style "soundtest_button"
-        frame:
-            yalign 0.8
-            style_group "pref"
-            has vbox
-
-            textbutton _("Joystick...") action Preference("joystick")
+#
+#        frame:
+#            yalign 0.8
+#            style_group "pref"
+#            has vbox
+#
+#            textbutton _("Joystick...") action Preference("joystick")
+#
 
 init -2:
     style pref_frame:
