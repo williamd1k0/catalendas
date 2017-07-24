@@ -16,11 +16,11 @@ translate english strings:
 
     # script.rpy:135
     old "Índio fofoqueiro"
-    new ""
+    new "Native 1"
 
     # script.rpy:146
     old "Índio fuxiqueiro"
-    new ""
+    new "Native 2"
 
     # script.rpy:199
     old "{size=+12}{b}Aviso legal{/b}{/size}{vspace=20}{size=+10}Os personagens deste projeto não nos pertencem e nem suas imagens. {vspace=20}Este projeto não possui nenhuma relação com a {a=http://www.portalcultura.com.br/node/26}{b}TV Cultura{/b}{/a} e a {a=https://inbust.wordpress.com/}{b}Companhia In Bust{/b}{/a}, criadoras do programa de TV {i}Catalendas{/i}.{vspace=20}Projeto feito de fã para fã sem o objetivo de violar os direitos dos personagens e não possui fins lucrativos.{/size}"

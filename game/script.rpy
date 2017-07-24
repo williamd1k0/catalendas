@@ -538,9 +538,20 @@ transform fogo(child):
         linear .8 ypos -0.1 xpos .2
         repeat
 
+
+label default_lang:
+    menu:
+        "Português":
+            $ persistent.lang = None
+            $ renpy.change_language(None)
+        "English":
+            $ persistent.lang = 'english'
+            $ renpy.change_language('english')
+    return
+
+
 # Intro
 label splashscreen:
-
     $ config.quit_action = Quit(confirm=False)
 
     transform iconpos:
@@ -552,6 +563,11 @@ label splashscreen:
     show catavento_icon at iconpos, clock
     $ renpy.pause(3, hard=True)
     hide catavento_icon with dissolve
+
+    if not persistent.default_lang:
+        call default_lang
+        $ persistent.default_lang = True
+        $ renpy.utter_restart()
 
     show disclaimer_txt
     show classificacao at iconpos
@@ -587,7 +603,6 @@ label splashscreen:
         $ renpy.pause(10, hard=True)
         $ persistent.not_firstrun = True
 
-    #show text "{color=#fff}PRESSIONE START{/color}" at right, press_start
     show press_start_txt at right, press_start
 
     # Aguarda interação

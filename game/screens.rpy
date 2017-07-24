@@ -518,6 +518,13 @@ screen preferences:
     #    xfill True
 
         # Columna izquierda.
+    python:
+        def set_language_and_reload(lang):
+            if persistent.lang != lang:
+                persistent.lang = lang
+                renpy.change_language(lang)
+                renpy.utter_restart()
+
     vbox:
         xalign 0.5
         yalign 0.6
@@ -535,8 +542,8 @@ screen preferences:
             has vbox
 
             label _("Idioma")
-            textbutton _("Português") action Function(renpy.change_language, None)
-            textbutton _("Inglês") action Function(renpy.change_language, "english")
+            textbutton _("Português") action Function(set_language_and_reload, None)
+            textbutton _("Inglês") action Function(set_language_and_reload, "english")
 
             # frame:
             #     style_group "pref"

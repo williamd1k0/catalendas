@@ -25,7 +25,7 @@ init -1 python hide:
     ##   ajustada a False antes del lanzamiento del juego, así el usuario
     ##   no puede hacer trampas usando las herramientas de desarrollo.
 
-    config.developer = not False
+    config.developer = True
 
     ## These control the width and height of the screen.
     ## - Control de la anchura y altura de la pantalla.
