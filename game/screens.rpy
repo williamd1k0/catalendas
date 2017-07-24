@@ -508,7 +508,7 @@ screen preferences:
     add im.Scale('gui/opened-book.png', 1280, 720)
     use navigation
 
-    text "{size=30}Configurações{/size}":
+    text _("{size=30}Opções{/size}"):
         xalign 0.3
         yalign 0.12
 

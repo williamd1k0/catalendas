@@ -13,6 +13,10 @@ translate english strings:
     old "Inglês"
     new "English"
 
+    #
+    old "{size=30}Opções{/size}"
+    new "{size=30}Preferences{/size}"
+
     # screens.rpy:457
     old "{size=30}Créditos{/size}"
     new "{size=30}Credits{/size}"
