@@ -1,5 +1,4 @@
-﻿# TODO: Translation updated at 2017-07-22 20:04
-
+﻿
 # /home/williamd1k0/cena03.rpyc:11
 translate english a_fogueira_41095b3e:
 

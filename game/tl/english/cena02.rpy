@@ -1,5 +1,4 @@
-﻿# TODO: Translation updated at 2017-07-22 20:04
-
+﻿
 # /home/williamd1k0/cena02.rpyc:7
 translate english a_cabeca_voadora_2c53f6be:
 

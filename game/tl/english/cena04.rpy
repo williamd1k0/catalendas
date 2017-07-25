@@ -1,5 +1,4 @@
-﻿# TODO: Translation updated at 2017-07-22 20:04
-
+﻿
 # /home/williamd1k0/cena04.rpyc:14
 translate english final_544f0b1d:
 

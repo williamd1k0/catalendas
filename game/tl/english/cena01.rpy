@@ -1,5 +1,4 @@
-﻿# TODO: Translation updated at 2017-07-22 20:04
-
+﻿
 # /home/williamd1k0/cena01.rpyc:13
 translate english as_estrelas_950094d1:
 
